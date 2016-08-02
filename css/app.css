@@ -6,6 +6,10 @@
     text-align: right;
 }
 
+.center-align {
+    text-align: center;
+}
+
 .row.header {
     border-bottom: 1px solid gray;
     padding-top: 10px;
